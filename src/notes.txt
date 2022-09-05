@@ -1,0 +1,22 @@
+PLAN
+
+1. Search by [song, artist, album].
+
+  [SONG]
+  2. INPUT - Song name
+  3. Select which song ["Title by Artist", "Title by Artist", ...].
+  4. (Return to main menu)
+  
+  [ARTIST]
+  2. INPUT - Artist name
+  3. Select which artist ["Artist 1", "Artist 2", ...]
+  4. Select which song(s) ["1. Song", "2. Song", or Enter for all]
+  5. (Return to main menu)
+  
+  [ALBUM]
+  2. INPUT - Album name
+  3. Select which album ["Album by Artist", "Album by Artist", ...]
+  4. Select which song(s) ["1. Song", "2. Song", or Enter for all]
+
+SONG SELECTION:
+  (to be determined)
